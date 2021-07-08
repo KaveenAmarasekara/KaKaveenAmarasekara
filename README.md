@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @KaKaveenAmarasekara
+- 👀 I’m interested in ICT
+- 🌱 I’m currently learning A/L
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+KaKaveenAmarasekara/KaKaveenAmarasekara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
