@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaKaveenAmarasekara
+- 👋 Hi, I’m @KaveenAmarasekara
 - 👀 I’m interested in ICT
 - 🌱 I’m currently learning A/L
 - 💞️ I’m looking to collaborate on ...
